@@ -1,15 +1,13 @@
-# Pokémon TCG [![Build Status][ci-badge]][ci]
+# Pokémon TCG - Slightly Better Font patch [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon TCG.
 
 It builds the following ROM:
 
-- Pokémon Trading Card Game (U) [C][!].gbc `sha1: 0f8670a583255cff3e5b7ca71b5d7454d928fc48`
+- poketcg.gbc `sha1: f4ad691f6accf2b041338dde6a86e85e3bb737d9`
 
 To assemble, first download RGBDS (https://github.com/gbdev/rgbds/releases) and extract it to /usr/local/bin.
 Run `make` in your shell.
-
-This will output a file named "poketcg.gbc".
 
 
 ## See also
