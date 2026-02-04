@@ -1,6 +1,9 @@
-# Pokémon TCG - Slightly Better Font patch [![Build Status][ci-badge]][ci]
+# Pokémon TCG - Slightly Better Font patch
 
-This is a disassembly of Pokémon TCG.
+This is a disassembly of Pokémon TCG using a tweaked font.
+
+<img width="160" height="144" alt="Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)-0" src="https://github.com/user-attachments/assets/7a089476-48a8-4d15-848c-e9630479427b" />
+<img width="160" height="144" alt="Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)-1" src="https://github.com/user-attachments/assets/861ed8de-2434-4699-8075-f4a6f0270aa5" />
 
 It builds the following ROM:
 
@@ -8,6 +11,12 @@ It builds the following ROM:
 
 To assemble, first download RGBDS (https://github.com/gbdev/rgbds/releases) and extract it to /usr/local/bin.
 Run `make` in your shell.
+
+Or you could also patch a vanilla ROM with the latest "Slightly Better Font" patch [found here.](https://github.com/RandomUsername404/PokemonTCG_GB-Slightly_Better_Font/tree/master/patches)
+
+## Changelog
+
+v1.0 - Initial release: improved glyphs for several letters and symbols.
 
 
 ## See also
